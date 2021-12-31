@@ -11,3 +11,6 @@ If you would like to add a setting from a service into this database or instruct
 - It must not impact the user experience of the given service (e.g. Turning off analytics sharing in iOS stops some data collection and doesn;t affect user experience).
 
 More rules may be added in the future, but this is what I have for now.
+
+# Is this the final product?
+Oh heavens no! This is just a concept thing at the moment. I am not very well versed in this Github thing just yet so if you have any ideas, please shoot me a message or do a pull request or whatever else you can do to suggest change. I would greatly welcome it!
