@@ -9,6 +9,7 @@ Many services, products and operating systems are secretly collecting general an
 If you would like to add a setting from a service into this database or instructions on how to stop certain data collection, the following must be made certain of beforehand:
 
 - It must not impact the user experience of the given service (e.g. Turning off analytics sharing in iOS stops some data collection and doesn;t affect user experience).
+- The names of the products, services and operating systems must be inputted into alphabetical order for your pull requests. Don't make my life hard please. I will deny any major errors made in formatting and whatnot if you do this.
 
 More rules may be added in the future, but this is what I have for now.
 
