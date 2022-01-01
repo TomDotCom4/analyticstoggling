@@ -1,4 +1,4 @@
-# analyticstoggling
+# Analytics Toggle Database
 
 ## What is this project for?
 
