@@ -18,3 +18,4 @@ More rules may be added in the future, but this is what I have for now.
 Oh heavens no! This is just a concept thing at the moment. I am not very well versed in this Github thing just yet so if you have any ideas, please shoot me a message or do a pull request or whatever else you can do to suggest change. I would greatly welcome it! Some long term plans for this include
 - A website that collects this data and displays it in a user friendly manner, similar to [https://plexus.techlore.tech/](https://plexus.techlore.tech/)
 - A better CSV too, because this one I have now is realtively alpha stage and I am not sure exactly how to do things with it yet.
+If this does ultimately only stay as a CSV for my benefit though, I am ok with that too. You should only help out if you think this is worthwhile.
