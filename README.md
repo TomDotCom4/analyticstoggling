@@ -10,8 +10,11 @@ If you would like to add a setting from a service into this database or instruct
 
 - It must not impact the user experience of the given service (e.g. Turning off analytics sharing in iOS stops some data collection and doesn;t affect user experience).
 - The names of the products, services and operating systems must be inputted into alphabetical order for your pull requests. Don't make my life hard please. I will deny any major errors made in formatting and whatnot if you do this.
+- There will be a proper example in the future.
 
 More rules may be added in the future, but this is what I have for now.
 
-# Is this the final product?
-Oh heavens no! This is just a concept thing at the moment. I am not very well versed in this Github thing just yet so if you have any ideas, please shoot me a message or do a pull request or whatever else you can do to suggest change. I would greatly welcome it!
+## Is this the final product?
+Oh heavens no! This is just a concept thing at the moment. I am not very well versed in this Github thing just yet so if you have any ideas, please shoot me a message or do a pull request or whatever else you can do to suggest change. I would greatly welcome it! Some long term plans for this include
+- A website that collects this data and displays it in a user friendly manner, similar to [https://plexus.techlore.tech/](https://plexus.techlore.tech/)
+- A better CSV too, because this one I have now is realtively alpha stage and I am not sure exactly how to do things with it yet.
