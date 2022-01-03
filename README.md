@@ -6,7 +6,7 @@ Many services, products and operating systems are secretly collecting general an
 
 ## What are the rules for a setting from a service to be entered into this Github page?
 
-If you would like to add a setting from a service into this database or instructions on how to stop certain data collection, go to the contribution instructions linked here (link coming soon) to contribute.
+If you would like to add a setting from a service into this database or instructions on how to stop certain data collection, go to the contribution instructions to contribute at https://github.com/TomDotCom4/analyticstoggling/blob/main/ContributionInstructions.md.
 
 ## Is this the final product?
 Oh heavens no! This is just a concept thing at the moment. I am not very well versed in this Github thing just yet so if you have any ideas, please shoot me a message or do a pull request or whatever else you can do to suggest change. I would greatly welcome it! Some long term plans for this include
