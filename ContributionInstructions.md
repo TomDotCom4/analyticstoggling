@@ -11,4 +11,4 @@ If you want to make a contribution, please read the following beforehand.
 
 ## NOTES
 - You can include pretty much any piece of software on any OS, this includes regular applications, web applications or PWAs, video games and video game systems and anything else.
-- This is still in an alpha stage, these rules may change depending on what is done with the CSV.
+- This is still in an alpha stage, these rules may change depending on what is done with the CSV. I am still not entirely sure what is going on with this myself.
