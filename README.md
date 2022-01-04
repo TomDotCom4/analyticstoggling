@@ -2,7 +2,7 @@
 
 ## What is this project for?
 
-Many services, products and operating systems are secretly collecting general analytics on services without giving the use knowledge of this going on. This is not acceptable and needs to stop. The user should be given informed consent without coercion into having general analytics of them and their devices collected by random companies and often processed by larger companies like Facebook. To be clear, I am not against this practice as a whole, I just want people to be informed that it is or isn't happening.
+Many services, products and operating systems are secretly collecting general analytics and needlesly targeting you with advertising on services without giving the use knowledge of this going on. This is not acceptable and needs to stop. The user should be given informed consent without coercion into having these actions taken against them and their devices collected by random companies and often processed by larger companies like Facebook. To be clear, I am not against this practice as a whole (though I always reccomend turning this stuff off, or else this Github would not exist), I just want people to be informed that it is or isn't happening.
 
 ## What are the rules for a setting from a service to be entered into this Github page?
 
